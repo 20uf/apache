@@ -1,0 +1,7 @@
+TAGS="5.6 7.0 7.1"
+LATEST="7.1-alpine"
+VARIANT="wheezy jessie strech alpine"
+NAMESPACE="dockerphp/apache"
+REPOSITORIES="image"
+
+# dockerphp/apache-wheezy:5.6
