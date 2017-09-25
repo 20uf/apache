@@ -2,8 +2,8 @@ Apache PHP-FPM
 ========================
 > Sandbox for development - container running Apache + PHP-FPM
 
-![Docker Pulls](https://img.shields.io/docker/pulls/dockerphp/apache.svg)
-[![Build Status](https://travis-ci.org/php-docker/apache.svg?branch=master)](https://travis-ci.org/php-docker/apache)
+[![Docker Pulls](https://img.shields.io/docker/pulls/dockerphp/apache.svg)](#)
+[![Build Status](https://travis-ci.org/php-docker/apache.svg?branch=master)](#)
 
 # Supported tags
 | Os                 | PHP | Image                       | Layers |
